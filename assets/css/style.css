@@ -1,0 +1,38 @@
+body {
+	background-image: url(https://image.freepik.com/free-vector/grey-linen-texture-background_1053-253.jpg);
+}
+
+#animalButtons {
+	margin: 20px;
+	margin-left: 15px;
+}
+
+#addAnimal {
+	margin-top: 10px;
+}
+
+#animal-form {
+	float: right;
+	margin-right: 150px;
+}
+
+button {
+	margin: 10px;
+	background-color: teal;
+	color: white;
+	border-image: 5px;
+	padding: 10px;
+}
+
+img {
+	margin-left: 20px;
+	width: 350px;
+	height: 350px;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+p {
+	font-weight: bold;
+	font-size: 30px;
+}
